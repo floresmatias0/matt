@@ -1,0 +1,98 @@
+{
+  "Index": {
+    "components": {
+      "switch": {
+        "title": "Desliza para ver en ingles"
+      }
+    },
+    "header": {
+      "btn_translate": "English",
+      "btn_contact": "Contacto"
+    },
+    "intro": {
+      "section_1": {
+        "title": "Matias Flores",
+        "subtitle": "Desarrollador web full stack",
+        "description": "¡Bienvenido a mi sitio web! Soy Desarrollador Web Full Stack, me especialicé en el desarrollo web y moviles. Mi experiencia incluye varios proyectos para diferentes paises de latinoamerica y europa en los cuales desempeñé roles tanto en el backend como en el frontend."
+      },
+      "section_2": {
+        "title": "¿Por qué trabajar conmigo?",
+        "description": "Como profesional comprometido y apasionado del desarrollo web, ofrezco una combinación única de habilidades técnicas, creatividad y colaboración. Mi enfoque no solo se centra en la construcción de productos digitales sólidos, sino también en la creación de un entorno de trabajo positivo y productivo para alcanzar objetivos comunes."
+      },
+      "section_3": {
+        "title": "¿Qué sigue?",
+        "description": "Estoy comprometido con el aprendizaje continuo y siempre estoy buscando expandir mis habilidades en el campo del desarrollo web. Mi objetivo es seguir creciendo profesionalmente y aportar soluciones innovadoras a proyectos desafiantes. ¡Gracias por visitar mi sitio web! Si estás interesado en colaborar o simplemente quieres conversar sobre desarrollo web, ¡no dudes en contactarme!"
+      }
+    },
+    "services": {
+      "title": "Proyectos en los que participe",
+      "picture": {
+        "hover": "Visitar"
+      },
+      "01": {
+        "title": "radiomitre",
+        "description": "En este proyecto, desempeñé un papel fundamental en el desarrollo del frontend de una plataforma web, empleando tecnologías avanzadas para garantizar una experiencia de usuario óptima. Trabajé principalmente en la capa del cliente utilizando React y Next.js, con una combinación de herramientas de estilización como Tailwind CSS y SCSS."
+      },
+      "02": {
+        "title": "stockshipping",
+        "description": "En este proyecto colaboré específicamente en el desarrollo del panel de administración de una plataforma para realizar venta de productos. Mi responsabilidad principal fue trabajar en la estructura y funcionalidades del panel de administración, utilizando Laravel y PHP como tecnologías principales, con una base de datos MySQL."
+      },
+      "03": {
+        "title": "cotizador",
+        "description": "El proyecto consistió en el desarrollo de un cotizador de cortinas, una herramienta simple pero efectiva para calcular el precio final de cortinas personalizadas. El cotizador se creó utilizando Vite, un entorno de desarrollo rápido para aplicaciones web, y se estilizó con Tailwind CSS para garantizar una interfaz de usuario limpia y atractiva."
+      },
+      "04": {
+        "title": "imperiosanto",
+        "description": "Participé activamente en el desarrollo integral de una tienda de ropa en línea, abordando tanto el backend como el frontend de la aplicación. Utilizamos tecnologías modernas para garantizar un rendimiento óptimo y una experiencia de usuario excepcional."
+      }
+    },
+    "process": {
+      "01": {
+        "title": "01. Proactividad",
+        "description": "Anticipo y abordo los desafíos con iniciativa, encontrando soluciones eficaces de manera proactiva para garantizar el éxito del proyecto."
+      },
+      "02": {
+        "title": "02. Adaptabilidad",
+        "description": "Me ajusto rápidamente a los cambios y nuevas situaciones, manteniendo un enfoque flexible y eficiente en entornos dinámicos."
+      },
+      "03": {
+        "title": "03. Diseño Centrado en el usuario",
+        "description": "Mi enfoque en el desarrollo web no solo se trata de funcionalidad, sino también de crear experiencias de usuario intuitivas y atractivas."
+      },
+      "04": {
+        "title": "04. Trabajo en Equipo",
+        "description": "Disfruto colaborando en equipos multidisciplinarios, fomentando una comunicación abierta y contribuyendo positivamente al logro de metas comunes."
+      },
+      "05": {
+        "title": "05. Cooperación",
+        "description": "Soy un creyente ferviente en la cooperación y el intercambio de ideas, valorando la diversidad de perspectivas para alcanzar resultados excepcionales."
+      },
+      "06": {
+        "title": "06. Organización",
+        "description": "Mi enfoque meticuloso y organizado me permite gestionar eficientemente el tiempo y los recursos para cumplir con los plazos y objetivos del proyecto."
+      }
+    },
+    "contact": {
+      "form": {
+        "name": "Nombre completo",
+        "email": "Email",
+        "msg": "Mensaje",
+        "errors": {
+          "success": "Gracias por contactarte! Pronto nos estaremos comunicando 🤩",
+          "error": "Mmmm esto no es bueno, tuvimos un error y no pudimos enviar el contacto 😔",
+          "pending": "Estamos tramitando el contacto ... por favor, aguarda en línea 😇"
+        },
+        "button": {
+          "sending": "Enviando...",
+          "send": "Enviar"
+        }
+      },
+      "whatsapp": {
+        "prefix": "Ó escríbeme por"
+      }
+    },
+    "footer": {
+      "copyright": "© 2023 demo – Todos los derechos reservados"
+    }
+  }
+}
