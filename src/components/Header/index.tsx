@@ -26,7 +26,7 @@ const Header = ({btnLegendTranslate, btnLegendContact}: Props) => {
   }
 
   return (
-    <header className='flex items-center justify-between px-8 md:px-14 py-4'>
+    <header className='flex items-center justify-between px-8 md:px-14 py-2'>
       {/* <Image src='/Logo.svg' alt='Merliteam' width={200} height={100} className='w-64 md:w-64'/> */}
       <p className='text-4xl text-white'>Portfolio</p>
       <div className='button-container hidden md:flex'>

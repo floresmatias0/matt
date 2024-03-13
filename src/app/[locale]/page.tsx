@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <main className="">
       <Header btnLegendTranslate={t('header.btn_translate')} btnLegendContact={t('header.btn_contact')}/>
-      <div className='px-8 md:px-14 md:my-8 flex flex-col gap-24'>
+      <div className='px-8 md:px-14 md:mb-8 md:mt-2 flex flex-col gap-24'>
         <Intro 
           title={t("intro.section_1.title")}
           subtitle={t("intro.section_1.subtitle")}
