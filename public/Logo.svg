@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="80"
+   width="auto"
    height="42"
    viewBox="0 0 80 42"
    fill="none"
@@ -42,5 +42,5 @@
        id="tspan1"
        x="-0.59728992"
        y="32.905659"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">demo</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">portfolio</tspan></text>
 </svg>

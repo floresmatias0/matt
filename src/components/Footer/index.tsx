@@ -8,7 +8,8 @@ const Footer = () => {
     <footer className='flex flex-col justify-between px-8 md:px-14 md:flex-row mb-4 mt-10'>
       <div className='w-full md:w-1/3'>
         <div>
-          <Image src='/Logo.svg' alt='Merliteam' width={200} height={200} className='m-auto md:m-[initial] w-40 md:w-36'/>
+          {/* <Image src='/Logo.svg' alt='Merliteam' width={200} height={200} className='m-auto md:m-[initial] w-40 md:w-36'/> */}
+          <p className='text-4xl text-white'>Portfolio</p>
         </div>
         <div>
           {/* {FOOTER_CONTENT.contact.t1} */}

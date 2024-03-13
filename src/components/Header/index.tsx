@@ -26,8 +26,9 @@ const Header = ({btnLegendTranslate, btnLegendContact}: Props) => {
   }
 
   return (
-    <header className='flex items-center justify-between px-8 md:px-14'>
-      <Image src='/Logo.svg' alt='Merliteam' width={100} height={100} className='w-32 md:w-36'/>
+    <header className='flex items-center justify-between px-8 md:px-14 py-4'>
+      {/* <Image src='/Logo.svg' alt='Merliteam' width={200} height={100} className='w-64 md:w-64'/> */}
+      <p className='text-4xl text-white'>Portfolio</p>
       <div className='button-container hidden md:flex'>
         <Button clickHandler={handleChangeLanguage} label={btnLegendTranslate} variant={ButtonVariation.outline} className='mr-2'/> 
         <Button href={'/#contacto'} label={btnLegendContact} variant={ButtonVariation.outline} />
