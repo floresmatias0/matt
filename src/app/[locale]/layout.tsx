@@ -1,6 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { DM_Sans, Roboto_Serif, Roboto } from 'next/font/google'
+import { Roboto } from 'next/font/google'
 import { notFound } from 'next/navigation';
 
 const locales = ['en', 'es'];
