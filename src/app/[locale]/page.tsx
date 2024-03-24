@@ -13,8 +13,12 @@ export default function Home() {
 
   return (
     <main className="">
-      <Header btnLegendTranslate={t('header.btn_translate')} btnLegendContact={t('header.btn_contact')}/>
-      <div className='px-8 md:px-14 md:mb-8 md:mt-2 flex flex-col gap-24'>
+      <Header 
+        btnLegendTranslate={t('header.btn_translate')}
+        btnLegendContact={t('header.btn_contact')}
+        textLogo={t('header.text_logo')}
+      />
+      <div className='md:mb-8 md:mt-2 flex flex-col gap-24 container mx-auto px-14'>
         <Intro 
           title={t("intro.section_1.title")}
           subtitle={t("intro.section_1.subtitle")}

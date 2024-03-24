@@ -7,11 +7,16 @@ import { useEffect } from 'react';
 import Image from 'next/image';
 
 type Props = {
-	btnLegendTranslate: string,
-	btnLegendContact: string,
+	btnLegendTranslate: string;
+	btnLegendContact: string;
+  textLogo: string;
 };
 
-const Header = ({btnLegendTranslate, btnLegendContact}: Props) => {
+const Header = ({
+  btnLegendTranslate,
+  btnLegendContact,
+  textLogo
+}: Props) => {
   const router = useRouter();
 
   useEffect(() => {
@@ -27,8 +32,7 @@ const Header = ({btnLegendTranslate, btnLegendContact}: Props) => {
 
   return (
     <header className='flex items-center justify-between px-8 md:px-14 py-2'>
-      {/* <Image src='/Logo.svg' alt='Merliteam' width={200} height={100} className='w-64 md:w-64'/> */}
-      <p className='text-4xl text-white'>Portfolio</p>
+      <p className='text-4xl text-white'>{textLogo}</p>
       <div className='button-container hidden md:flex'>
         <Button clickHandler={handleChangeLanguage} label={btnLegendTranslate} variant={ButtonVariation.outline} className='mr-2'/> 
         <Button href={'/#contacto'} label={btnLegendContact} variant={ButtonVariation.outline} />

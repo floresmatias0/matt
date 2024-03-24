@@ -7,7 +7,8 @@
     },
     "header": {
       "btn_translate": "Español",
-      "btn_contact": "Contact"
+      "btn_contact": "Contact",
+      "text_logo": "Portfolio"
     },
     "intro": {
       "section_1": {
@@ -25,7 +26,7 @@
       }
     },
     "services": {
-      "title": "Projects in which they participate",
+      "title": "My featured works",
       "picture": {
         "hover": "Visit"
       },

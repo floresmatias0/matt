@@ -9,7 +9,7 @@ const Footer = () => {
       <div className='w-full md:w-1/3'>
         <div>
           {/* <Image src='/Logo.svg' alt='Merliteam' width={200} height={200} className='m-auto md:m-[initial] w-40 md:w-36'/> */}
-          <p className='text-4xl text-white'>Portfolio</p>
+          <p className='text-4xl text-white'>{t('header.text_logo')}</p>
         </div>
         <div>
           {/* {FOOTER_CONTENT.contact.t1} */}
