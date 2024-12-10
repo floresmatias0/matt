@@ -14,7 +14,7 @@
       "section_1": {
         "title": "Matias Flores",
         "subtitle": "Full stack web developer",
-        "description": "Welcome to my website! I am a Full Stack Web Developer, I specialized in web and mobile development. My experience includes several projects for different countries in Latin America and Europe in which I played roles in both the backend and frontend."
+        "description": "I am a Full Stack Developer with expertise in web and mobile development. I have worked on various projects for companies across Latin America and Europe, playing key roles in both backend and frontend development. My focus is on creating efficient, scalable solutions with an exceptional user experience."
       },
       "section_2": {
         "title": "Why work with me?",
@@ -31,20 +31,16 @@
         "hover": "Visit"
       },
       "01": {
-        "title": "radiomitre",
-        "description": "In this project, I played a key role in developing the frontend of a web platform, using advanced technologies to ensure an optimal user experience. I mainly worked on the client layer using React and Next.js, with a combination of styling tools like Tailwind CSS and SCSS."
+        "title": "Radiomitre",
+        "description": "Currently, I play a key role as a Frontend Developer, responsible for the continuous development of the web platform. My work involves implementing designs provided in Figma using React and SCSS to create dynamic and reusable user interfaces. I also integrate ARC Publishing as a CMS for efficient content management. I focus on ensuring a high-quality user experience, performance optimization, and adaptability across various devices, actively contributing to the growth and maintenance of the platform."
       },
       "02": {
-        "title": "stockshipping",
-        "description": "In this project I specifically collaborated in the development of the administration panel of a platform to sell products. My main responsibility was to work on the structure and functionalities of the administration panel, using Laravel and PHP as main technologies, with a MySQL database."
+        "title": "Uniciti",
+        "description": "As a Mobile Frontend Developer, I contributed to the development of a security-focused mobile application using React Native. My responsibilities included implementing features for real-time map visualization to display user locations, integrating tools to send alerts to emergency contacts, and enabling group creation for seamless communication via an internal chat. I ensured a responsive and intuitive user interface, leveraging advanced technologies to enhance the application’s reliability and user experience."
       },
       "03": {
-        "title": "cotizador",
-        "description": "The project consisted of the development of a curtain estimator, a simple but effective tool to calculate the final price of personalized curtains. The quoter was built using Vite, a rapid development environment for web applications, and styled with Tailwind CSS to ensure a clean and attractive user interface."
-      },
-      "04": {
-        "title": "imperiosanto",
-        "description": "I actively participated in the comprehensive development of an online clothing store, addressing both the backend and frontend of the application. We use modern technologies to ensure optimal performance and an exceptional user experience."
+        "title": "StockShipping",
+        "description": "As a Full Stack Developer, I contributed to the design and development of a user management and product administration system using Laravel and PHP. This project enabled users to sell products and build an affiliate network, allowing them to earn income based on sales made by their referrals. I implemented key features such as user management, affiliate tracking, and report generation, ensuring a robust backend and an intuitive frontend to enhance the user experience."
       }
     },
     "process": {
@@ -93,7 +89,7 @@
       }
     },
     "footer": {
-      "copyright": "© 2024 matt portfolio – All rights reserved"
+      "copyright": "matt portfolio – All rights reserved"
     }
   }
 }

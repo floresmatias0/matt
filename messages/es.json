@@ -14,7 +14,7 @@
       "section_1": {
         "title": "Matias Flores",
         "subtitle": "Desarrollador web full stack",
-        "description": "¡Bienvenido a mi sitio web! Soy Desarrollador Web Full Stack, me especialicé en el desarrollo web y moviles. Mi experiencia incluye varios proyectos para diferentes paises de latinoamerica y europa en los cuales desempeñé roles tanto en el backend como en el frontend."
+        "description": "Soy Desarrollador Full Stack con experiencia en desarrollo web y móvil. He trabajado en diversos proyectos para empresas de América Latina y Europa, desempeñando roles clave tanto en el backend como en el frontend. Mi enfoque está en crear soluciones eficientes, escalables y con una experiencia de usuario excepcional."
       },
       "section_2": {
         "title": "¿Por qué trabajar conmigo?",
@@ -31,20 +31,16 @@
         "hover": "Visitar"
       },
       "01": {
-        "title": "radiomitre",
-        "description": "En este proyecto, desempeñé un papel fundamental en el desarrollo del frontend de una plataforma web, empleando tecnologías avanzadas para garantizar una experiencia de usuario óptima. Trabajé principalmente en la capa del cliente utilizando React y Next.js, con una combinación de herramientas de estilización como Tailwind CSS y SCSS."
+        "title": "Radiomitre",
+        "description": "Actualmente, desempeño un rol clave como Frontend Developer, encargado del desarrollo continuo de la plataforma web. Mi trabajo incluye implementar diseños proporcionados en Figma utilizando React y SCSS para crear interfaces de usuario dinámicas y reutilizables. También integro ARC Publishing como CMS para la gestión eficiente del contenido. Me enfoco en garantizar una experiencia de usuario de alta calidad, optimización del rendimiento y adaptabilidad en diversos dispositivos, contribuyendo activamente al crecimiento y mantenimiento de la plataforma."
       },
       "02": {
-        "title": "stockshipping",
-        "description": "En este proyecto colaboré específicamente en el desarrollo del panel de administración de una plataforma para realizar venta de productos. Mi responsabilidad principal fue trabajar en la estructura y funcionalidades del panel de administración, utilizando Laravel y PHP como tecnologías principales, con una base de datos MySQL."
+        "title": "Uniciti",
+        "description": "Como desarrollador frontend mobile, participé en el desarrollo de una aplicación móvil enfocada en seguridad utilizando React Native. Mis responsabilidades incluyeron la implementación de funcionalidades para la visualización en tiempo real de mapas que muestran ubicaciones de usuarios, la integración de herramientas para enviar alertas a contactos de emergencia y la habilitación de la creación de grupos para una comunicación fluida a través de un chat interno. Garantizé una interfaz de usuario responsiva e intuitiva, aprovechando tecnologías avanzadas para mejorar la confiabilidad y experiencia del usuario en la aplicación."
       },
       "03": {
-        "title": "cotizador",
-        "description": "El proyecto consistió en el desarrollo de un cotizador de cortinas, una herramienta simple pero efectiva para calcular el precio final de cortinas personalizadas. El cotizador se creó utilizando Vite, un entorno de desarrollo rápido para aplicaciones web, y se estilizó con Tailwind CSS para garantizar una interfaz de usuario limpia y atractiva."
-      },
-      "04": {
-        "title": "imperiosanto",
-        "description": "Participé activamente en el desarrollo integral de una tienda de ropa en línea, abordando tanto el backend como el frontend de la aplicación. Utilizamos tecnologías modernas para garantizar un rendimiento óptimo y una experiencia de usuario excepcional."
+        "title": "StockShipping",
+        "description": "Como desarrollador Full Stack, participé en el diseño y desarrollo de un sistema de administración de usuarios y gestión de productos utilizando Laravel y PHP. Este proyecto permitió a los usuarios vender productos y crear una red de afiliados, otorgándoles la posibilidad de generar ingresos en base a las ventas realizadas por sus referidos. Implementé funcionalidades clave, como la administración de usuarios, el seguimiento de afiliados y la generación de reportes, asegurando un backend robusto y un frontend intuitivo para optimizar la experiencia del usuario."
       }
     },
     "process": {
@@ -93,7 +89,7 @@
       }
     },
     "footer": {
-      "copyright": "© 2024 matt portfolio – Todos los derechos reservados"
+      "copyright": "matt portfolio – Todos los derechos reservados"
     }
   }
 }
